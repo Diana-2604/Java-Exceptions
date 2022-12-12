@@ -1,2 +1,2 @@
 # java-exceptions
-Homework on Java exceptions course GB
+Seminars and homework on Java exceptions course GB
