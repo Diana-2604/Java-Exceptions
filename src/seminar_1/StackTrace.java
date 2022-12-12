@@ -1,4 +1,4 @@
-// Get stack trace
+package seminar_1;// Get stack trace
 
 public class StackTrace {
     public static void main(String[] args) {

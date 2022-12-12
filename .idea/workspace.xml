@@ -4,12 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d551619-0308-48f9-bf5e-669e9612682b" name="Changes" comment="Seminar1">
-      <change afterPath="$PROJECT_DIR$/src/HW_task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_task4.java" afterDir="false" />
+    <list default="true" id="9d551619-0308-48f9-bf5e-669e9612682b" name="Changes" comment="Seminar1 homework">
+      <change afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/HW_task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/HW_task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/HW_task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/HW_task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackTrace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/StackTrace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +35,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="af2e322a-3d47-465f-ae28-9fdeb0f05e71" />
+        <option name="url" value="https://github.com/Diana-2604/java-exceptions" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -35,12 +52,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-17"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670533852514</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Seminar1 homework">
+      <created>1670572132323</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670572132323</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seminar1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar1" />
+    <MESSAGE value="Seminar1 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar1 homework" />
   </component>
 </project>
