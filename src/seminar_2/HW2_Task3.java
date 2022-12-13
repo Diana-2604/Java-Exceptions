@@ -39,11 +39,8 @@ public class HW2_Task3 {
             System.out.println("Index exceeds array size");
         }
 
-        try {
-            printSum(23, 234);
-        } catch (Throwable ex) {
-            System.out.println("Something went wrong...");
-        }
+        printSum(23, 234);
+
     }
     private static void printSum(int a, int b) {
         System.out.println(a + b);

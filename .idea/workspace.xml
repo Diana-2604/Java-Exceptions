@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d551619-0308-48f9-bf5e-669e9612682b" name="Changes" comment="Seminar1 homework">
-      <change afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminar_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/HW_task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/HW_task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/HW_task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/HW_task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StackTrace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/StackTrace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_1/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminar_2/HW2_Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminar_2/HW2_Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +45,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "corretto-17"
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/Users/diana/IdeaProjects/Java-exceptions"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

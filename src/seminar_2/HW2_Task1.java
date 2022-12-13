@@ -15,7 +15,8 @@ public class HW2_Task1 {
         Scanner iScanner = new Scanner(System.in);
         System.out.print("Enter float number: ");
         String input = iScanner.next();
-        if (!input.matches("[+-]?([0-9]*[.])?[0-9]+")) {
+        String floatPattern = "[+-]?([0-9]*[.])?[0-9]+";
+        while (!input.matches(floatPattern)) {
             System.out.print("Try to input a float number again: ");
             input = iScanner.next();
         }
