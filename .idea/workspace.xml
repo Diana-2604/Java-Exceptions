@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d551619-0308-48f9-bf5e-669e9612682b" name="Changes" comment="Seminar1 homework">
+    <list default="true" id="9d551619-0308-48f9-bf5e-669e9612682b" name="Changes" comment="edit Seminar2 homework">
+      <change afterPath="$PROJECT_DIR$/src/seminar_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar_3/WrongLoginException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminar_3/WrongPasswordException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar_2/HW2_Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar_2/HW2_Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar_2/HW2_Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670572132323</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="edit Seminar2 homework">
+      <created>1670938722060</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670938722060</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seminar1" />
     <MESSAGE value="Seminar1 homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar1 homework" />
+    <MESSAGE value="edit Seminar2 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit Seminar2 homework" />
   </component>
 </project>
